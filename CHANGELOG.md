@@ -1,6 +1,13 @@
 Changelog
 =========
 
+Unreleased
+----------
+
+### Added
+
+- system.device-mode - New check for the RouterOS device-mode and its flagged status
+
 0.11.1 - 2025-10-21
 -------------------
 

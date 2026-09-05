@@ -113,6 +113,7 @@ The permissions documented in the table are additional permissions.
 | routing.ospf.neighbors | -           | 6        | Check if ospf neigbhors are reachable                    |
 | system.clock           | -           | 6, 7     | Check the time from RouterOS against local time          |
 | system.cpu             | -           | 6, 7     | Check the cpu load                                       |
+| system.device-mode     | -           | 7        | Check the device-mode and its flagged status             |
 | system.fan             | -           | 6, 7     | Check the fans                                           |
 | system.memory          | -           | 6, 7     | Check system memory                                      |
 | system.ntp.client      | -           | 6, 7     | Check the ntp client, offset and stratum                 |
